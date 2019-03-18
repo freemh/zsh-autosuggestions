@@ -14,7 +14,7 @@
     source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
     ```
 
-3. Start a new terminal session.
+3. Start a new terminal session or type ```source ~/.zshrc```
 
 ### Antigen
 
